@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Name: Andres Flores
+=======
+My Name: Tim Wheeler
+>>>>>>> b82d5f04e7bba64a8a71ee25513703d06eaa16da
